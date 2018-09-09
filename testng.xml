@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=" TestSuite1 " parallel="none">
+	<test name="FlightBooking test">
+		<classes>
+			<class name="unitTests.FlightBookingTest" />
+		</classes>
+	</test>
+	<test name="ValidateCredentials test">
+		<classes>
+			<class name="unitTests.ValidateCredentialsTest" />
+		</classes>
+	</test>
+</suite>
